@@ -64,9 +64,11 @@ I combine **retail leadership experience** with **AI & tech development** — br
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=aadarsh1282&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=aadarsh1282&theme=tokyonight&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh1282&theme=tokyonight&hide_border=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=aadarsh1282&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=aadarsh1282&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh1282&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 

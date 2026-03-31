@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Run Snake Animation
-        uses: Platane/snk@v2.0.0
+        uses: Platane/snk@master
         id: snake
         with:
           png_width: 800
@@ -24,7 +24,7 @@ jobs:
           color: "#00ff00"
 
       - name: Upload Snake Animation
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: 'snake.gif'

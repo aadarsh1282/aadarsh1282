@@ -17,8 +17,7 @@ AI-powered bot to analyze hackathon data and generate insights
 
 📊 **Hackeroos Insights API**  
 FastAPI backend delivering real-time analytics for hackathon systems  
-
-👉 *(Add project links here once polished)*  
+  
 
 ---
 
@@ -52,8 +51,6 @@ FastAPI backend delivering real-time analytics for hackathon systems
 
 ## 📊 GitHub Insights
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aadarsh1282&theme=tokyo-night)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadarsh1282&layout=pie&theme=tokyonight)
 
 ---
 
